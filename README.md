@@ -1,4 +1,4 @@
-# raylib CMake Project
+# G1 Project
 
 This provides a base project template which builds with [CMake](https://cmake.org).
 
